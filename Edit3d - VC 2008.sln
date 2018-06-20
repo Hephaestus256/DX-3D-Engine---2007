@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual C++ Express 2008
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Edit3d", "Edit3d - VC 2008.vcproj", "{13B45BF8-7EE7-4510-9B06-ED4A7FBDD250}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{13B45BF8-7EE7-4510-9B06-ED4A7FBDD250}.Debug|Win32.ActiveCfg = Debug|Win32
+		{13B45BF8-7EE7-4510-9B06-ED4A7FBDD250}.Debug|Win32.Build.0 = Debug|Win32
+		{13B45BF8-7EE7-4510-9B06-ED4A7FBDD250}.Release|Win32.ActiveCfg = Release|Win32
+		{13B45BF8-7EE7-4510-9B06-ED4A7FBDD250}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
